@@ -28,4 +28,4 @@ You need to have the following installed:
 ### Steps to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-widget-landing-page.git
+   git clone [https://github.com/your-username/weather-widget-landing-page.git](https://github.com/ameerhamzaa47/Landing-Page-Task/)
